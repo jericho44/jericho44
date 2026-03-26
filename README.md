@@ -1,7 +1,7 @@
 # Hi there, I'm Rico Wahyu 👋 (jericho44)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Location-Malang%2C%20Indonesia-blue?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Surabaya%2C%20Indonesia-blue?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-orange?style=flat-square" />
 </p>
 
@@ -38,5 +38,5 @@ I'm a **Full Stack Web Developer** specializing in building scalable web applica
 
 ### 📫 Connect with me
 - 💼 **LinkedIn:** [linkedin.com/in/rico-wahyu](https://www.linkedin.com/in/rico-wahyu/)
-- 📧 **Email:** ricoding17@gmail.com
+- 📧 **Email:** ricowahyu04@gmail.com
 - 🌐 **Portfolio:** [Visit My Portfolio](https://github.com/jericho44/my-portofolio)
