@@ -30,9 +30,18 @@ I'm a **Full Stack Web Developer** specializing in building scalable web applica
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jericho44&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jericho44&layout=compact&theme=tokyonight&hide_border=true" width="300" />
+  <!-- Main Stats Card (Replaces the broken one) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jericho44&theme=tokyonight" width="400" />
+  
+  <!-- Top Languages Card (Replaces the broken one) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jericho44&theme=tokyonight" width="300" />
 </p>
+
+<p align="left">
+  <!-- Optional: Added Streak Stats for extra detail -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jericho44&theme=tokyonight" width="400" />
+</p>
+
 
 ---
 
