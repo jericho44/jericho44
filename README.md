@@ -29,18 +29,19 @@ I'm a **Full Stack Web Developer** specializing in building scalable web applica
 ---
 
 ### 📈 GitHub Stats
-<p align="left">
-  <!-- Main Stats Card (Replaces the broken one) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jericho44&theme=tokyonight" width="400" />
-  
-  <!-- Top Languages Card (Replaces the broken one) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jericho44&theme=tokyonight" width="300" />
+
+<p align="center">
+  <!-- Row 1: Profile Overview & Top Languages -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jericho44&theme=tokyonight" height="180px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jericho44&theme=tokyonight" height="180px" />
 </p>
 
-<p align="left">
-  <!-- Optional: Added Streak Stats for extra detail -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jericho44&theme=tokyonight" width="400" />
+<p align="center">
+  <!-- Row 2: Contribution Streak & Activity Graph -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jericho44&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jericho44&theme=tokyo-night" height="180px" />
 </p>
+
 
 
 ---
